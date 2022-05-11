@@ -10,4 +10,4 @@ Hello! I am Topi Purtola, a first year student of Computer Science at University
 
 ## Contact me
 ![https://www.linkedin.com/in/purtola-topi/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![topi.purtola@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
