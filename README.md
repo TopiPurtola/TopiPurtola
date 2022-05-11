@@ -9,5 +9,4 @@ Hello! I am Topi Purtola, a first year student of Computer Science at University
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ## Contact me
-![https://www.linkedin.com/in/purtola-topi/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![image](https://user-images.githubusercontent.com/72581705/144093004-9ed6b658-c668-4673-91ab-37374d838d5d.png)][1] [![icons8-telegram-app-48 (1)](https://user-images.githubusercontent.com/72581705/144093652-4659db15-2278-47d1-817d-d68449f62296.png)][2] [![icons8-gmail-48](https://user-images.githubusercontent.com/72581705/149047734-f01f9f63-62da-41cf-833e-d18a6ac5a823.png)][3]
