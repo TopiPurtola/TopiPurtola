@@ -1,5 +1,5 @@
 ### About me
-Hello! I am Topi Purtola, a first year student of Computer Science at University of Eastern Finland. I am interested in software development, 3D-modeling and 3D-printing.
+Hello! I am Topi Purtola, a first year student of Computer Science at University of Eastern Finland. I am interested in software development, 3D-modeling and 3D-printing. My skills and contact information can be found down below.
 
 ## Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
